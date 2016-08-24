@@ -1,0 +1,8 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "a node server setup with errors to correct",
+  "author": "kiraknowsbest",
+  "license": "ISC",
+  "main": "server.js"
+}
