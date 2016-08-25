@@ -1,2 +1,2 @@
 # node-server-demo
-A basic Node server with some errors to fix. 
+A basic Node server, errors inserted purposely to test basic understanding of server creation.
